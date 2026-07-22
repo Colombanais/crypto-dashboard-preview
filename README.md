@@ -7,7 +7,6 @@ Experience the application live:
 👉 **[Access OurCryptoWallet Website](https://ourcryptowallet.vercel.app)**
 
 ## 📊 Complete Interface Preview
-![Full Crypto-Dashboard Preview](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/YOUR_IMAGE_NAME.png)
 ![Full Crypto-Dashboard Preview].(https://github.com/Colombanais/crypto-dashboard-preview/blob/main/ourcryptowallet.jpg).
 
 ### 🔥 Key Features
@@ -31,7 +30,16 @@ Everyone can create their own personal space in a completely secure way.
 * **Dynamic Breakdown Charts:** Clear, interactive donut charts visualize your complete asset and storage type distribution at a glance.
 * **Flexible Tools & Currencies:** Features automated portfolio scanning tools and instant currency conversion switches ($ USD / € EUR).
 
-### 4. ⚙️ Customization & Controls
+### 4. 📈 Summary of Your Holdings
+* **Global Aggregation:** This section provides a consolidated summary combining all of your individual portfolios into a single view.
+* **Overall Performance:** Instantly track your aggregate gains and losses, showing both percentage growth and absolute value (e.g., +6.89% / +476.42 $).
+* **Total Portfolio Value:** Clear display of your total combined asset value in real-time.
+* **Asset Allocation Breakdown:** Detailed breakdown and interactive donut chart showcasing your distribution by cryptocurrency (e.g., BTC at 44.7%, BNB at 23.2%, TRX at 22.2%, and DOGE at 9.9%).
+* **Storage Type Distribution:** Visual donut chart analyzing how your assets are allocated by strategy and security type (e.g., Cold Storage at 44.7%, Trading at 33.1%, and Stacking at 22.2%).
+
+### 5. ⚙️ Customization & Controls
 * **Theme Switcher:** Seamless toggle between a sleek Dark Mode and a clean White/Light Mode.
 * **Multi-Language Support:** Quick language switcher (FR / EN).
 * **Tools & Extras:** Integrated management tools, donation options, and secure session controls.
+
+![Aperçu du Dashboard](ourcryptowallet.jpg)
