@@ -8,6 +8,7 @@ Experience the application live:
 
 ## 📊 Complete Interface Preview
 ![Full Crypto-Dashboard Preview](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/YOUR_IMAGE_NAME.png)
+![Full Crypto-Dashboard Preview].(https://github.com/Colombanais/crypto-dashboard-preview/blob/main/ourcryptowallet.jpg).
 
 ### 🔥 Key Features
 
