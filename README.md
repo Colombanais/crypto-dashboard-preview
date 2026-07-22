@@ -7,7 +7,7 @@ Testez l'application dès maintenant :
 👉 **[Accéder au site OurCryptoWallet](https://ourcryptowallet.vercel.app)**
 
 ## 📊 Aperçu de l'interface
-![Aperçu du Crypto-Dashboard](https://raw.githubusercontent.com/VOTRE_PSEUDO/NOM_DU_DEPOT/main/NOM_DE_VOTRE_IMAGE.png)
+![Aperçu du Crypto-Dashboard]([https://raw.githubusercontent.com/VOTRE_PSEUDO/NOM_DU_DEPOT/main/NOM_DE_VOTRE_IMAGE.png](https://github.com/Colombanais/crypto-dashboard-preview/blob/main/ourcryptowallet.jpg))
 
 ## ✨ Fonctionnalités
 * **Suivi en temps réel :** Visualisez les prix actualisés de vos actifs.
