@@ -6,9 +6,6 @@ A professional, modern, and feature-rich cryptocurrency tracking dashboard built
 Experience the application live:  
 👉 **[Access OurCryptoWallet Website](https://ourcryptowallet.vercel.app)**
 
-## 📊 Complete Interface Preview
-![Full Crypto-Dashboard Preview].(https://github.com/Colombanais/crypto-dashboard-preview/blob/main/ourcryptowallet.jpg).
-
 ### 🔥 Key Features
 
 ### 1. 🔒 Privacy & Local-First Architecture
@@ -42,4 +39,5 @@ Everyone can create their own personal space in a completely secure way.
 * **Multi-Language Support:** Quick language switcher (FR / EN).
 * **Tools & Extras:** Integrated management tools, donation options, and secure session controls.
 
+## 📊 Complete Interface Preview
 ![Aperçu du Dashboard](ourcryptowallet.jpg)
