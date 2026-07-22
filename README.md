@@ -9,21 +9,26 @@ Experience the application live:
 ## 📊 Complete Interface Preview
 ![Full Crypto-Dashboard Preview](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/YOUR_IMAGE_NAME.png)
 
-## 🔥 Key Features
+### 🔥 Key Features
 
-### 1. 📈 Summary of Your Holdings
-* **Overall Performance:** Track total gains and losses in real-time with percentage and currency indicators.
-* **Asset & Type Allocation:** Visual donut charts breaking down your portfolio distribution by cryptocurrency (BTC, BNB, TRX, DOGE) and by storage type (Cold Storage, Trading, Stacking).
-
+### 1. 🔒 Privacy & Local-First Architecture
+Everyone can create their own personal space in a completely secure way. 
+* **Secure Authentication:** Login is handled via an email address and a password. The **email address with password are the only elements stored in Supabase**, serving strictly for identification purposes.
+* **100% Local Storage:** All your sensitive portfolio data, holdings, and configurations are stored securely and exclusively on your local device.
+* **The Trade-off:** Because of this strict local-first approach, there is no automatic data portability or syncing between your computer and mobile phone. This is the price of total privacy and local control.
+  
 ### 2. ⚡ Interactive Watchlist
-* **Live Market Cards:** Monitor key pairs (BTC/USDT, BNB/USDT, ETH/USDT, SHIB/USDT, TRX/USDT) powered by reliable data sources like Binance.
-* **Custom Timeframes:** Interactive mini-charts supporting multiple analytical ranges (24h, 7j, 1M, 3M, YTD, 1Y, Max).
-* **Layout Customization:** Flexible grid system allowing you to switch column views instantly (4, 5, or 6 columns).
+* **Custom Watchlist:** Users can freely choose and customize the specific list of assets they want to track.
+* **Live Market Prices:** Real-time price updates directly from reliable data sources.
+* **Price Alerts:** Set custom alerts to get notified when assets cross specific thresholds—either on the upside or the downside.
+* **Custom Timeframes & Layouts:** Interactive mini-charts supporting multiple analytical ranges (24h, 7j, 1M, etc.) and a flexible grid system allowing instant column switches (4, 5, or 6 columns).
 
 ### 3. 💼 Portfolio Tracking & Tables
-* **Multi-Table Management:** Create and organize separate asset-tracking tables (e.g., *Portefeuille DeFi #1*).
-* **Detailed Asset Breakdown:** Manage public addresses, balances, storage types, average purchase costs, individual performances (+/-), and total USD values per row.
-* **Auto-Scan & Currency Toggle:** Features automated portfolio scanning tools and instant currency conversion switches ($ USD / € EUR).
+* **Multi-Portfolio Management:** Users can create and organize multiple separate tracking portfolios tailored to their needs (e.g., Ledger, Binance, WhiteBit...).
+* **Blockchain Integration:** Enter the public address of an asset; in certain cases, the balance is automatically fetched directly from the Blockchain.
+* **Cost & Strategy Tracking:** Track the average purchase cost per line, and categorize each asset based on its usage (Trading, Stacking, or Cold Storage).
+* **Dynamic Breakdown Charts:** Clear, interactive donut charts visualize your complete asset and storage type distribution at a glance.
+* **Flexible Tools & Currencies:** Features automated portfolio scanning tools and instant currency conversion switches ($ USD / € EUR).
 
 ### 4. ⚙️ Customization & Controls
 * **Theme Switcher:** Seamless toggle between a sleek Dark Mode and a clean White/Light Mode.
